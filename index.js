@@ -1,6 +1,6 @@
 exports.isWds = function(string)
 {
-    // yet another comment update
+    // test 1
     console.log("Run Function!");
     return string;
 }
